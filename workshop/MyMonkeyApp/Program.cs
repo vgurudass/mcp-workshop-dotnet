@@ -1,11 +1,9 @@
-﻿using MyMonkeyApp;
-using System;
-using System.Collections.Generic;
+using MyMonkeyApp;
 
 var asciiArts = new[]
 {
 	@"  (o)(o)   (o)(o)   (o)(o)   (o)(o)   (o)(o)",
-	@"   (__)     (__)     (__)     (__)     (__)",
+	@"   (__)     (__)     (__)     (__)     (__) ",
 	@"  /    \   /    \   /    \   /    \   /    \",
 	@" (      ) (      ) (      ) (      ) (      )",
 	@"  \____/   \____/   \____/   \____/   \____/",
