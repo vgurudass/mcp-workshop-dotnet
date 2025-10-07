@@ -1,14 +1,6 @@
 namespace MyMonkeyApp;
 
 /// <summary>
-/// Provides static methods to manage and retrieve monkey data.
-/// </summary>
-using System.Collections.Concurrent;
-using System.Net.Http.Json;
-
-namespace MyMonkeyApp;
-
-/// <summary>
 /// Provides static methods to manage and retrieve monkey data from the Monkey MCP server.
 /// </summary>
 public static class MonkeyHelper
