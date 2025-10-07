@@ -1,7 +1,3 @@
-﻿
-using MyMonkeyApp;
-
-
 using MyMonkeyApp;
 
 var asciiArts = new[]
